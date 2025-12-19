@@ -52,3 +52,6 @@ This project addresses these challenges by presenting all key AQI insights in a 
 - Improving usability with filters and geographic views
 
 ---
+
+<img width="1283" height="723" alt="PowerbiDashboardAQI" src="https://github.com/user-attachments/assets/c8e2ee99-19c4-443c-af3f-cb1d0812f121" />
+
